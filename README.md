@@ -5,12 +5,12 @@
 ---
 
 ### :man_technologist: About:
--  I'm A Freelancer Developer
+-  I'm a Freelancer 
 - 💻: I Design and develop Applications
 - :zap: Eat. Sleep. Create
-- :zap: I Love what I Do.
+- :zap: I Love what I Do.!!
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: TECH STACK :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="FLUTTER" alt="FLUTTER" width="40" height="40"/>&nbsp;
