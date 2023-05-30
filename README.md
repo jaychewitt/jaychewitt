@@ -5,8 +5,7 @@
 ---
 
 ### :man_technologist: About:
- I'm A Freelancer Developer
--  
+-  I'm A Freelancer Developer
 - 💻: I Design and develop Applications
 - :zap: Eat. Sleep. Create
 - :zap: I Love what I Do.
