@@ -1,7 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="480" height="480"/>
-</div>
-
+<div id="header" align="center" style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <iframe src="https://giphy.com/embed/lXHwJv89PvdN200Anr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-tech-designer-developer-lXHwJv89PvdN200Anr"></a></p>
 ---
 
 ### :man_technologist: About:
